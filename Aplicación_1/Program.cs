@@ -12,8 +12,8 @@ namespace Aplicación_1
         {
             //Inicio
             Console.WriteLine("Hola C#");
-                          
-                          
+            Console.WriteLine("Hola C#");
+
 
 
 
